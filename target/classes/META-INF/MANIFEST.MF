@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SprintBootPractice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mahakaal
+Implementation-Vendor-Id: com.test.practice
+Build-Jdk: 1.8.0_282
+Implementation-URL: http://projects.spring.io/spring-boot/SprintBootPr
+ actice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
